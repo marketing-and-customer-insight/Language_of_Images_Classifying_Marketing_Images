@@ -1,0 +1,1001 @@
+image_path,label,label_num
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/c9532d4b98bc5a9b9690d8f66f6b80e2.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/e57182038718c4564aa9f23744ef7564.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/801ca6c1ed4c7f6ab0ea057b555e8f88.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/6b5a61d8bc2fb2920ffcd687b4506864.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/d252ae55e9517cee4e1cd1703b4b724b.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/55fd8a7e60f2ba2ef8e187da68bfb1f8.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/e30c9d9d98c6bedcd8014e47c1cf7ea7.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/ecda2968a7218800b184343f9832a062.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/7d9a3f75f3bc2177614e30209a4f84ac.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/f1c3f2036aead9a3d80a15c1337b8069.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/59bb0147cad45c772130219fcffc3e16.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/14e92240ccbd982c558a02763e472eb0.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/c0e41d0ffe57481db09053c65344f2b4.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/7127a36cea2dd763aed30f923d674141.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/9be5eadfd28bb6718d8e159563dc78ca.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/5b4e7748818883ae4f6deccba1b2d113.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/af5b940e6349ef39874d10f2245a7524.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/6bc2fd23482e5480aa5bd57478aca8c2.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/9d343d9f4ebcce195be34aaaa6f77ef3.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/bfd9af76d9d513535bdb3f22a856b3e4.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/905cd71b655e5ab82285f3626bdae8e7.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/857f41884bb5c78b9acaacc9c46915d9.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/210536847f14162a514a0470e0a44e9b.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/7b45c8224ba36e5dd48cdbe13917977c.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/35c83b27a30bcf288a237f0af8480b93.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/803a5e42a76b3dca7930d2c883ae2c04.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/2e277f409209e33a2c3f8bc4c7b86e93.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/6f8d14819b76333b8b1ff14ad7e236a9.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/d1fbcb28cfdbbdea9680f6182427018f.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/be3f57e2a4e9f0614cde747788ad6f4f.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/60e41d52cebae46199e48c1fc3035863.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/62b9be861442aa04fd2ff7ca6db8c4ed.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/049f46e900e5d082f35f9733a7c9585a.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/35306f70994943b0ac2db4b8d121e9e2.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/41e65413967ff71079dfaa0549d79c4b.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/6375e110b5119add7d78527b974354d4.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/c9b8d42ae1c71441259f65cf9d1f8943.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/938850ce62a024da46d9da70b2956280.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/9ebc971e0b1f820a911b8a825c255b65.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/1a684674e74ad3ecae1768b00985761c.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/7b9597236d3c77ae2fbfe5c7c340daf7.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/5833a2e065770feae955e3a6c3050389.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/cdc1f42d9ac36c883c5bcf3806b08853.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/1ee1dbefde979954c2e00408814cd08d.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/9ffe512fd29d23800e197e11be1acb50.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/65c992bbb85be036850da046d556a149.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/411636bec4641ee6af6eaa771efd3680.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/0ceb977645b5f3f12110b31d65d23c79.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/b98418acbe6c6f23801e2a9279547294.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/ce3946b67b1565d72bd8b830650b0d29.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/5b099ea42e1f91adc18664c2d88b6e8e.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/ee17305aa0a0e73f04124787044d1826.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/d29fc2cbffd3cbf0c97b593de7df4526.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/8ebf9944b7f191c8dcc1b98d41eac2f9.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/f7fe222ebd483f0030bf94bc742d6d7d.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/d6bcc088dd056a246d2534e57f04ca75.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/95633a666785cc52b56e72113af7dc3b.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/c31658860031577e900577ed225135cb.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/0741b906e6240c401d480e3556fa132b.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/6162d5fa0bdddd209eae6c2e1ce40042.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/0f9a1939cadde1b02e52349189629493.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/0488f5a867cdd041dc21bf1861485be0.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/808cdd96c17bbb6bc082ec030a6d383c.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/d092e8b821490ad9bd025ae5a27c8f10.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/684b36122aca5d53fda8b61dcef6eedc.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/df56cb636a339dda22349b18bc282127.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/7395067284fff32ffc12601da5d1e1a4.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/31252acf4e973e9b50931ad1ee01f9e8.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/867a74ddc7254c7d1603e946fcc3c2d1.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/6a914718ccbdc592cb8c5abff2ef6e81.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/fade6e9950aa8cfcbedc855694cf7ca1.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/21c2e6f81c0d4c1dc4487331736bf8db.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/093df437195aa01cb7151112ac03bdbc.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/0f7848165123fd86eb96d145b7ff57db.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/9f274f9fd71dac23f5bf2b048cb99945.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/cf15122c3f719c5c38be94a5d2c1bc39.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/69e21d3dd56b3a2304bd9a36a8de2d37.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/cc09e2584ac0e955a4645ffc6a2b9b58.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/80a3ab78f387e0b579027188687f822b.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/26f36fbc483551f12a3fa7f5d5b4dff8.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/1aad843f25465a39311fff6d860d3211.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/63f1df765450a0cdb4c1c268f7e18155.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/f2d735ea18e9a5febdb0b487eb7f3b7d.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/b47921b539afa65a4f08984a4da19733.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/7d76b84d9c227f7929700214a385264c.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/70189904cbdc2bc7aa62abb3a0b0695d.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/2742d370f93ef38deae6d417c9ca39e7.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/cc89dc8e072b16f24669f85208318727.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/58b655d9f56bc0f8ae7d9283544989a0.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/4acf94d8e3c2e30700f17da2a4e4c91b.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/dc95ae51111923a738ba4e39cf77ec7f.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/a33fc768b753c645c0d1b9f96a6ee8a1.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/58b2696afa2e01737ed02d7a9b9acf7d.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/c627a38d21aa6b766a5602f220024dbd.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/f809a86ecec3e2bbc7dda66781d42f87.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/1c8c81619621ad70b3dffae665aedbc9.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/01079d4e18b0321c679daf4c4034304a.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/d2f2bce2b47650345174d200e39c8f42.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/91d2828a132dec5e7c674f39fc1cc484.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/dae092ace500e1f2bec2e6be0d47395f.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/0cbc6a129b1bcc0eb45f38c30657ceed.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/d7143f7aed563f6c3dcf1eaffbcc88d5.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/438fbfdc64462290d7cfb022d5abc53f.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/a35451bf676db868654734fd8185c4d1.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/7a9845f497c9216ab6543a87ca30cb67.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/b434b9bcebb6ad22d3ed2a0cc98c2230.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/7e21d2ae9c28a452c083ce3a8e87dddc.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/58cf9c0cb29f5d203f9d2fb49f21ab4e.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/7ce8502c8d8c40ee3a30554d269b8ee9.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/dc83fb2f8eed4a0d8329c32457ae1ec9.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/ba692260ac1dbff101eb5708c8508ccd.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/c4e59dfb8653ed211eba46c7b07f65e9.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/86cf91ba5762e38bd98f61b1dd8ea1ae.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/f0f23643a1108bfd8aafb9136504c948.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/cbd81e67d43cb6b7d1eaed85ece3c039.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/b971c7f23d0cc91ab2074716fd172e4b.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/e6d8e70625e5f5fbfa6cd4128867eba4.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/d5bfaaa8e477efd8526628db3b41ebf0.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/e60db1ac702d95d8cda1a57c79cc37b0.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/3b5885b748977bd2f05b60a0216e4f84.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/50d779318371d4c0add9bb74f824ba32.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/35767b232a41386d080ea19f275aaf30.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/71f8236ad4165fbbc1d2802e72bfe87a.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/72f7707f801bd39e68259b7b792e1f48.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/2c79e85a150cc59c394a7c59114b42c0.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/38333e913949122cf2fa29cb31502d68.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/dd8c436172eb5574ad09e766320c1935.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/38b8ad615968edc56128da2f139eef4c.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/bc68c14543de1df31d716d83a5c08565.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/9145ff5be5381513b71fa4e3aaf0be7c.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/a4b43e5a64953117a88610d6e59148fc.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/872dc7675651654758a94c0c86076f49.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/c9870cdc81b7b8027f136e3adcdd1dac.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/20866f3c154721ffca8645a16bd5baa5.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/877dbe1f9f3155fd4659e0385a35ae89.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/5b9376d1bff3d76c57a7ef3c650bcf90.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/a7df807b8d1d129b03c85d77019331a7.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/009d08bf40db9af9b1fc7d4377e7a5ef.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/c30de3028d244fc63a3a823ea0a14aab.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/b65c135a569c45aac75120f84cb3836b.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/80fa7ebf928eb7d8c11a6c8de7fb5e3d.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/7b835c68550002dd33c7fa0bf3ed4849.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/41f39ff86963c792d3317129f9d21e06.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/2284925fe493c8d919326accb3d69e60.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/f247d7daeeea9343e37db061aaca4458.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/5d3a36a5ee1de01b33b29f00ddf1834f.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/2e79c490fc4ed61318d07c5c4509e3ee.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/482241f6bd1e8387e60257a423b538cf.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/5bf73332df8eac02402455c7aa4242f3.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/cd0af71249f59dfbbe9597fefc1c8411.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/c96a055e2627ac43e32ba54d5cccd9a9.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/287f84999a842c58f6452d09e65d11d0.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/530bc925582e4404213b9e6bb217ff45.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/a00b66f2f4016b3758730f6b51d1dfcd.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/70437b68214a854307579eec5a5ac069.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/072ac7bbbb52e0f9aee1578132f4449b.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/4fabd401d8422d13ee15c948ec098fd0.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/d2697c7bc6227ff748da6659372f2ce2.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/b4fe6bd2403c060d8fd128a75c208594.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/b7ad1dcbceded43dd018444a147987e5.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/c875cde72161993e45f3dc58da0df968.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/a4aada3e23e0e0513cca31cc8ac7cb6a.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/2d7ec70a2b724c3862c09bfea39d149b.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/3aa93f4bc0d2c55141a6b7976d5ef258.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/bc1cfecff907c3cb7083424e9347af1d.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/105181120b3c9847c371f197033d82aa.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/d3eb4a5252be5fbd26340ae67727d16d.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/83aa0c7ce89c5ca65d4508683680a9e9.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/642a578a3e3be398ac499b6defd024f7.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/0926dd4794baadd3ce8895ace7cefcd4.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/eced1dd49256ddb304ee507e7cb4ddcb.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/9cd729a3ed563fa76a309d5e678a3c99.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/f8a0ad47ade2c85ddf920d7042a5ef2d.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/a29c924c6e72f5efab4a15fbc75c7b74.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/35d66670fe55d95c3a41db71ff3b36e6.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/10981040986a30a4f6ca3bd00984dc68.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/77909f7a4a1b78150ee4f31d49bca459.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/1e8c5a6eb88abf738cc79f6dc708365d.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/e71c188e1eb44a9993f88bf6b1aa0777.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/819b1dd116256aa835ca8bda801ce66f.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/8f875754691a0850e4ace969fd814f62.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/13c321efcb4a2e496c57892a204f6de6.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/d15efb8bf30c0cf1ed4709e5dac7b358.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/b8a8d8e77d4982da6d96c03b33265e6c.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/0127f7191951875cc32c945ee622318e.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/54643e09f4e6d2c4e133d30d4d97e116.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/b46c6493cb709e7d7b6186fe02fa3ea2.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/f46edec2d8b23340d6c77020897c771f.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/2329becd97c0d83c272f9103e80413c7.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/a2f7b9bd42a3e09ca069d38e7d0144c6.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/5ae4c20d84a1c658aa7cbf49cad66d4a.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/ab022f0050c412ea98368321fee2286c.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/7c34eafe0cba8abea82cefece379cd66.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/009d22729541cff61257018839d6df7d.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/5ed354d27fb7be8730905af741d18eef.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/8bcfd9a38fe47dc6e8a38c731bb13248.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/ad8c7bd278c1650a01e72a10c68a094c.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/e8e1930f3405b04b2604e0d14e9bb183.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/cc0bf05bb7e7009f781557ec69535506.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/ef70d984b05d49eafff7e111e33a7153.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/85e669bdf498b1934e1852109708bf4f.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/b4c6a5b54e9a376ac8d2942746201869.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/a2cf068688050a1110b4041cba7c9fc9.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/866ad58e995b0e7095878109dfab63de.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/3f80cee3d7d2f9593dd7f5da0b7d5b95.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/f6435bb97e9f9c95dbeb3e1d1abcc3a8.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/91fff07a64943a9a3e07554aa1f75658.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/08b591f9773a14ce56da838a8de2d56e.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/0c0e8595baf6742b582597ea82e51889.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/925edf2a90e0cfed7776a137799d7cf5.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/59a87fb063167c7c1e88c15b7e76bea4.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/e7df276c62c30c92462da8ef231d84a2.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/b1b50bd94449a542d1e5ea2aff558180.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/200f008b5fe00ee5611fe003232ac15b.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/ffaee8fa540e36005fe85e7d1860226f.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/c2f69fe6beedb76ff1d97a8e7992735a.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/be1ed70d8437713d7e0bb52cb124ae49.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/df066098a99c86e69c9646b9b6febef6.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/a4f0a53cbf13795faacfb269822e225c.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/28dcd93bb944f639d21bcb588de9dc93.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/914c1cf052685aa8f332aa6eaa699916.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/bf7ab7170d5cad69dedda43670898a80.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/f9774380290e3b84e8657c3653defdd3.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/9c0577e83d3213a89dec48bbdb7bf2f5.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/1105cbea21f068862d4909f175a85ad5.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/1b59a51948a73b8baa5edf2e919d1bca.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/33/1d64e6229c8ce2727d060b3b04bb534c.jpg,hygiene product,21.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/63d3ed2735dcae0242fbe102205caf28.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/263d67e8dc165c91fe6480aacb0918b9.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/06c0bff30243e88c20440b2b0a461867.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/bdc41238fc44b3cd5280bf2ed58c5614.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/6b758b648b31931ca042fc6535d8649b.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/281fdfce9009582848c559486684089f.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/5e961ef37e4cb44d491030bb32bafb06.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/45ee22a26080d06986cebdfcd7235892.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/29d6fa94b041730ddb55d39b046f9300.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/c9668103c1974313743570b1318cf5b4.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/abaf2583790dc994bde5f56668a1bed4.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/1ed1aa11a0d1b21183f3f7784aa7547f.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/a2c71b6609c2bf540276157e939a00c2.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/8054e0ee1a4d28da380a2da2ed00b651.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/09ed36f53ac3ca8ff57f7bde865ae53a.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/bb4a76f69171ebe2b1b4e4ea8f53dac1.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/ccceb69a07c903506c379fab68f10a06.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/a96539b52d9875212c593de210b94366.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/0176b566a4083e0dd9c2853c03765505.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/a202a1c77c0e866d56bd6e3852cb6279.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/ca0decac62427e9eaec171e2f48a23c5.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/25a5600f4d67436202e43b0d0af88995.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/d1861fd22f2cf43847e575445c3470a1.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/c4edb2f1319cab158ce26ec395aee8d0.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/0d1ff380e16472fcfab8b137dc0dcc3f.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/88e8997b74bbbdfb677bb118769445d3.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/215bbd073842ea5f8076e90b35402342.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/970e546cadb10bf8cf8bd04df9b57081.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/366a2669f49e0a500e37373862d2e4ca.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/248751035468140aaeb7cd93cb2be382.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/ccd9ec408f2e6ed7fe25ba9e65f8d8d0.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/763f563ab0cef3cb39b7c9857018e3ce.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/8694df3d80708d99cd380c3fedd0765c.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/3c6cf1143690991482cc616ff67bf79e.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/b2af9206e8978ffe38fb71e2076cc648.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/bd37ab360400c7aff4a438322c5c8a45.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/d8086b23c637b55caf634705792c88b9.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/b0d5894405f97c93c5089bde8145f4fe.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/d51a4d274e6cc4aabfbc9d135c3fdfaa.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/b59af223cd04988560dabc0bce937e41.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/dc5f3168ec4b34840270eeafe54d9e4f.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/e9c27463cc16492a02d188912ca2cee5.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/c60241bb6b322c51fac1fcd1a6c83dbe.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/2cd42d06d661725830623895fb367f18.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/45a6ea6584fd0b6a435b4baf670652f9.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/f34ad400615be94554e5d456872b742b.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/f2455e05b2c8c709847e1b27a18f2b06.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/3267f4caf8bc4823f6b7955cf7d0f46b.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/49651ab436468e83e1262693af7f8aa4.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/e2bd73cfb4156e3494d8771f8dc38755.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/072737ce2c38935147a6f50ce134b025.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/c8e1fbdee2f0bdd310aea8bc57199171.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/9d641e51eb4813bcd558997731f40a0b.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/074efd23b62d03ee68b97d9401a0ab4a.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/1dc4ec075a4fb0312baddc67836bc9be.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/e4b99a150fc7727e5f2f3fb0f2e3a353.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/498ee104808aa76d01691401c932a9a5.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/d7739dafe2230ac3ef8faf7b3a1802fe.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/7797637e189cdb5e2f05fb8530ecfd05.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/19155b2dc603b3cb8234d8a5698d6060.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/4207cc73f7b4a663fc13cdc1c5515044.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/22d69e58d8687ed806cf2ba49b1ca0dc.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/33e3ba9ae86054b54fcd1ee1235d5421.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/80d8dc08dd6474ac8d2cf5e9cb0cfb20.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/1cc85fc344b67f7f610294fc78eb3f24.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/7271a31677b7c2b1f8bac324878d37ec.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/c128bbd1cf2c4d5a2759c65769a4b33f.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/151478154751436e49c4c53b177a1f29.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/06368909dc1226671ceb4716e53b6125.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/850e409c301010ec08788b20702f4b5b.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/93b3a5cb8e24a45fa4f42ce7486f0e7a.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/f16ec9dbab1a9db60c0eff8b57fa1a87.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/4b1642d82408e606ab20e98dbdcd798c.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/5313bfdfde2e17d4bfa0c80a97f79529.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/5af252218a9d66e8fe4c2048739d0526.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/55e5ea080d6e35aaae90e0830e67d491.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/1c1becdd8df129cdce45790c5535094b.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/cdb5d4b281937e9ec20deead80df42bd.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/4fc94dc9328ab9b5fdf57fc7adf422cf.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/949361a3fea91091ce79ebfdc0299925.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/624971a661c308b13cdf6a4daa6f643b.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/406017a0f8acee36df323938a4894711.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/d6b6e7f6e0c382ace08a76c5a820cd35.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/b5502300573fae96964179a802977471.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/1989b026837ef5a8dbb57ebbd3340d0a.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/dbafb79b8e426e5de0721e942255c05e.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/dc0f78d6f094988499618887abdf491c.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/01fd120630d996c4128b9c885d75b163.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/ec24db6946bfea6f633dcee42237de49.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/2cd8f2c91052a1a063b7000725c661d0.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/46723bec8cfbf7ef7add092bdd97d6e2.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/d636a5a53d246922f2e47532e1aab6b1.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/c673f8ed6ab0d21430503bc8c49223b0.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/66251bc1cf8fae3f354cb3c811c5cc7a.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/e0d21aacb1365a1adf5bce8fb561d6cf.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/4e68c80543223ad5f70f5ca6be1cef0f.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/2a07eab73721ebf707c3ca444db108ef.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/1622e43c711dee207c03b38c3495abf1.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/b0ce15e47babb0bced3ec5ed18edc359.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/da6f3b5f74536bd8f6f9720881f889ca.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/ff239c2ba12b9fc1d14b381d15dfd1b0.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/084b6aaad4382039ac80af1ea4178675.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/b4b64a3a166da4ba9d5ececb57162f6f.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/5863d2e0e1fa2e07dac3f6eced5f3ad9.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/37fd657caa0a888341d2d86e4e54db17.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/8ad49c0a5fad49547b734a12bcece609.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/032960b407f88263d1d6477da7ef430a.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/c07124e07eb7ce4d022f26f965715a05.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/ed474120117abe8f38bf38817bd777da.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/b65fddb905ac348f1561c7d11c2e5ed3.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/bc419ed72d2ce2828da4fe5b433008d1.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/2525bf5627564031db620b6c92d4fccc.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/4810876a08d8612b15f19ea124dfdd39.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/ca75d30a90841afc6c9dc4ec4794d5a4.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/6da9db78d2f36992d65cbae451df5fd0.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/766a3fa25e03ab954d04b458169dd355.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/d14a9063709ceeb3f86542f56bdcf0f1.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/081259c6cd1f85b24d65c13322bad17b.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/6e24b70dfd7afa77d3230586be8e81fc.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/b7b7015d5e7be9083e79641ef9a26b2e.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/06623d01317e236d21924588919daa8f.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/9ffbaba396fd74cdcf706c263a73f246.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/da6c31994cf9c4c4e559de2c927fa1f8.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/847d5177e4d6288568c542dee57d0862.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/82fdcdb2558ef1503f69be4c3014f2ac.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/2365d101cf36d8e216310146bbb9f6a0.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/97254bdf84fd4b0ab531e13804700b13.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/ccc7836bd6fb33f0db94c2291695a001.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/85d93e3aa8bd766c8bbe724ecf9a6488.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/f44062ea8ca7c011c7b9da0d7250a9a5.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/90d5dcdd9152efb5055cf9456a169463.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/97cac890f7d24d2bb1822a894c45ca79.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/bd80fc3075b7f34d42f3e58b5abf442c.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/d07c5c936506b78fc121d9abdbb2f7c5.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/6ed649b27e3e7123c5e4887a31a603a6.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/40d52d1e42152df4d9fc94ea0bdb2dae.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/d6cf4c5492c8d50addfb12da39ddac8f.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/1c4ff8a73c6430b56c41dfb0f2f1c557.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/7f1815c0df6748b86440b54bcb36709b.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/30f5396ce6624406a3774fc14aabc26d.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/ddbca182b8c8b2432d6f59ef6837cd3e.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/5d9f9644a8b7f060791295775a9efc8a.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/bb6f514ec413cbd7275a260e668550a2.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/9246cf7d05884a074e53e44082fd2049.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/b855b94913e4f8bcaabadd8aeab34a4a.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/8f8db1a30746460b8195b799850ac5bf.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/86f4d1cb3eabab14e370be9e84115a86.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/7700c580e0555e9fe731f6b685f9e759.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/7947cbdfee41ad31fc4f0342cb0e6849.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/27c7b1f2877afdf534701f255498c4fc.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/37d40b9c235986eace6383bea76b4e65.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/6d529683011cbd9425b8b1437dfccf6c.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/8750294fd23eaf0c0eab0f8552ddb4b4.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/3829301694d72904e820177d31e2b74d.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/4398537a19409b199b3889da91bf689c.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/303491bbf7d304c81216e2481488a985.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/1f450bcbc7d4132301f097b597e1474b.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/6dd999660003b832c6a5fb79414c6b1d.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/7847ad9556d858a0b18b72006ef2ae96.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/9a78319bde203deb4a21fa5a73ad3db6.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/7355dc618a02933b5602db8749e2d5a3.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/337fac602c56672ff96ca8afc06b32c0.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/b8469758325f957ab0c086313652b5e0.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/4bd073540e9aebdfd14542c15bf4ee95.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/f9b4d3fb5f1a3e55c1a06cc49b95135b.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/62b762bf191ff130dd74b833a06765c1.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/a94b35f859b8fe310346ac3c3fcb474b.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/378c1d6866c7b97cc312a60988ac8a4c.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/10c465b8e6a675679f235a3b1fdaa395.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/38eaa0ba0c1d57826b48c402da64fef2.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/4572ba5af27e6c2780c56393b2e3e6ef.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/4d1853f6b7486feac189a642d114e32f.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/87e461a20560d579a3bf7a56bcd724e6.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/540d17f9b04808b35a6bb6218f66281d.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/0b2cc3b0955a94eb4f2eb68838753548.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/9c969f84512c5247c7619aef9e43986b.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/4b1d7e7eb230ac8038554f5943417520.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/71fe22fa9eff6dfe46b6d17bea6f5060.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/044d9e37d450eee85b014ab599759339.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/d7abc63f98fcfc7aed96dbd72419e578.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/7f0e2058278c9fc7a0793ebb78bdd231.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/688c4f1b5029de72c07b0577ca3cfdd9.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/99d199aadf2e5545295fcb671be6090c.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/a83fce572452095e082acf89fc3c918a.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/36f8f131ae25bc9b5999c94553b46179.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/25be9de33ac85b738855d5ea58eee694.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/0011b6a5edf5961af60a8d2aecdefdba.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/33/5def4add9f42b386264fb53878481d99.jpg,hygiene product,21.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/e57faeb3918baa9245836c3c846faa24.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/107a8062f675153165a8061be195c346.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/c6b0bf3df71092c1d7342893f8a763b7.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/917c3fc706594a51a3763aa243182fa9.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/4367f60e9fd37a9251fc80ffaf436871.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/41a556b4ab522d5657740e1e1ed1ba31.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/11e491d1d1de86b3706109b6287a16b9.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/21479242abac40ee8d32023b74bbbe89.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/99c579515e71e22b3d0980724efc91d8.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/58569d3d7fd425db952c2d67579371f2.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/a7a418180e1f2159b397e35c1261eadb.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/75a0217e443c7e475a070fb5a92a1404.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/8a7239c7d5a949dfabe18fc3daab98d6.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/de0f18705bd28f005770d6b15bd41eb0.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/487a8b727ecd75d8cbfcd442016466c3.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/db7eb9a6b10b9f11752fe53dd5443b0b.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/6890fa13e957855b281f357b9c5dd363.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/c4e6debf312f83b22c5035a7a56fc7f7.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/55b262c955c1f26b1d21c36bfe17c0e8.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/3c83467ca935fbb283b79cdf7cc865a1.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/9bfce4bf77e1738077119249ce4c1916.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/ffe08c56288545d747fcc5a6290c7538.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/70cbda500f5ce8873317d77beb72d560.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/2b40f5a25194b4d79a56e2e5cd26f842.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/8e039da8aa8b555fa894794e02263bcd.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/df687d2c80e2a260bff457bc5278a6e6.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/69d7d2de371345d11e4e90f0b239d1ca.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/f4a315fea4863e2b15c77cc9c3da141f.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/db2d43a517c9edc8bf53527a32a11105.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/ee448736a77fc92285e19dda3ed04c10.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/b0b58e39a553981971bf62b0117960da.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/eef7c51b29e19df850843e4350fb2919.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/c277242d0232042ca92b16e1980ff16d.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/001731ff009c3ccf1d4a50dd7d16961f.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/bcd075bd8b88c30e79f74e343322b2dc.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/d096aed60e7202e411b93c682c7e4b8b.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/2b907e3873f15c29dba6b74ecb1e443c.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/2e261ec85a681c0193614910db6c965d.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/b76c6ebb81db51af27f400aa701e42fd.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/7bf07550e356159af86f169507cebf0c.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/c56854191dc642da15fb88c663b3f856.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/a78095e6ff7a53002b172b801d00de18.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/2794bde01051ba7c30b6a109a282d1e7.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/d0b47b075210e45f7161b6cd234b3a90.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/ff946f8afaab937e95542d7d41a5b523.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/18d51780365d9fe780d9946494463ef7.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/0b81cf21a83dc9cc868534f87639a52f.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/a3d9aa59f82500f38d15c009bb986a8f.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/71896ffdf1c9a1f5883055d40bedbda0.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/9ed7fb755674d88b8130559af19e3442.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/c37894e44857cb37063a7cfe1b43a351.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/0aae0b2bfbe9db27b33afdeecd86fc30.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/5183c9c0e9c84198df1e46ca3d1c2fd4.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/8c289d313f48223642ac9c8a98e53da0.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/5e348e7873687654b4f0e9fd30b4d071.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/7b0a11def5f274cbddae3f682f758398.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/8bfaf6348f170a14bbc0350ed71a2d52.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/856929b813f03c85ebf67b8c9e6cdda5.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/205cbc6410799a609b4304cb75f5e02c.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/47f60aa05dc76db9d05dff0efaa1b70c.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/02809c73e8b245a3b1db726d7b6c3d70.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/5aa6cad43f959f5eee142b63251442d3.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/b0c60d8d506bcd250846442a03eea86a.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/ea6cbd147573f9ad22ac4b017f601f38.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/b973324b4ddbd545a4ba779e79306523.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/4e98f5b744f1288872d10f261344fedf.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/12005c3580902a60f44b4a1d208e6ffc.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/4391782f9a0c5030efa45fadc1cf0eb4.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/32e4abcce96678dcbf9de57d4edd1603.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/185208ffb31ab463e81668fdf400235d.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/5e43a0a81254193a317a364c61f3dd30.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/98e9657e38f05363c32d0329ea28d95e.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/367a46ad6883a9b1e3358f9b830bc246.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/f0c512ebc3fcc96f9a1b0af286a9bb85.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/3490f4695c4fcd294e9e710d18a99614.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/5f94d26908c281e9ff88cdda38a24eff.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/44cd70d9d411cb2fcf5df8f4aad03332.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/aa711793530e02d01c8f16fe7772cb8a.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/29ac5d0fefb7320cdb7e94dd7c10e42a.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/daed48777f71bf03d1d3c727202be79b.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/17c40ac108f206cc88747460eaa0efa9.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/0d83ee1b50357cd59eae4c0b0c2cce04.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/108d0798525765d4c3eab398f3afa20d.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/a1ebd1a34378800b6a8939db85042974.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/52302d621af04ea461df71b37b6ef6eb.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/59d43ce4fab619f779c7aee7b94e75de.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/5628952ddc0857cb031f6e36a72df7fc.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/b068b6fb11ad10d6dd3f6d5c450a4f17.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/e7a2fca5af59a68cba62ee57ef9a4a3f.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/f35669c89da7a5deb1b8049b41a52a83.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/d8f35bd6340a9d512634a5048cfd577d.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/380877cbfd6d0410d9c4978af22f0a42.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/04751961dfb9f8849f440e75f4eb4491.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/704efb5c2e25f171755aa7f8a98e3616.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/94718b6798008f4d9cc46cde4221fd6b.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/d1db3144d05d97347d379ed167ff090d.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/c8f4d307df4e7a89b2c4b5edcc7b696e.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/a116c1b4c2dcd96a4b610b640628fb57.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/e56b0c23c98529c747b7b6957f397f7a.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/9baa96e67973adb35451f9845b4c123e.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/da411fd4fd43f98bf42955352285727a.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/513d2d0df88b900b62f1fb840a539915.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/e0c4e5b1ff97497f3f5733dc67221735.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/5ad41fb10b1f68e588f9ba65c599478a.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/42abb7a150837805492b1619c11608ac.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/67c20209859cf44c28bcdd9e766ad6a0.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/22952c1885c4e08864d7369fd7565486.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/1d6a2dadeb4586ffb6b213448ffd1299.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/aa1e8072537356bd82869c3fb4bc7bc5.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/738737aaf5928247e49da38533f0872b.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/bd516f0f8c030fde3a2b8c86c562c2ca.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/d30fb274889a8c8f699f20d2ea2d858b.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/b0bafb043d60244664322ba320a63c55.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/360a4d82cfa83a312fb786008a3895cf.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/4101af0b9851a05ba7aa8938f833b238.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/97f9fe853b83d3c407d2d0deb0fb899f.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/55ecc951eb9aa2cf334ed41fd091bb67.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/b642f5a213ab679e73cae5f2d9cf591b.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/1e743467b22c9bb2e728f3b711a8b0c1.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/812ad21d5bd184f867cdc5ccddca347c.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/ae6039eb9b356425bd924ebc3b3f695c.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/c00d43109e07cb5c5f63f16fb98ad1f9.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/31e5733bd8506b0e5a217bb51c65f434.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/73a09435b737638126b102de08ecd6c6.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/c5a7e2dc4ce24378553c68f8f15721be.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/9bbe53ab77a3aec09def8fdae009391e.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/457a4eb5d77c450379711ca4697c5c48.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/9da33bcfbacc9dbab57fbe4af87407d5.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/0a856cbf394706a583aaed02cabfa52f.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/3836ed9531da5a338092453656ccf730.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/ac6d86d9482feef16ae8db62cced2b1d.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/c9b3e6fb366496d24b466ff71b509435.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/152d3a7b8391eda75126f4de324be344.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/69962ad08f0434815335c8b91337d3c1.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/343c04b302ac1845b288a289019bfa27.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/e00a67f3ba0693c4ecbeee67fb5b6601.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/e76d52bc52aa86400491aa3657ddf654.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/d2fb57d88a22815397b098e98fa76bc4.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/ce8f93671ecad321cec9bfabcc9dc4ef.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/88735816330202f61168c59282b6c315.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/3fc9e12f88e168a6202c7fbd35de17d5.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/ee6b29bff8163e8febe6fd69888c99d7.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/32d0de907228e125d462cd4a0804e0e1.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/5227b054e42a59e05597d32f9e936891.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/00fcd74e4116e18b77a38399159d19a3.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/c65f70d9379c682dd76c24be14c26302.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/bdbb2cbac99c0e5a46d255966d31d955.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/e736f455744de8e20166d7aafb7afb0c.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/50bcf784c9b872dd946d2e41dbe2b124.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/68c59817f96e91c679f08a3e418bc241.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/6f5a068be16054c14ce69ac50a0c0255.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/8ee08779edde0fa0d3b2c288a32e9117.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/0204b18868dd21f9495ff301d52d0049.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/d623f759522df696d05147e441990e03.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/ef08ffa698294ece0e3c8fd93d014397.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/eeff2bc8fa0b3570f28ecd89aef13fda.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/653bd5fad9199e8dc392c9dbc0310860.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/bb3bbde3dae359fef93a7f89f3d60a65.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/57fc066218f72cab89fb1326fe0a83d2.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/0b39061e1de5dee07599e958ca2b3177.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/943cb2b0c69ddfdd80e06ce6aa90bd08.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/5034935f07011f74be04667ce5f0ab1f.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/87590c3790a7546190b2661b912b3105.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/7c7f65f1658a77118793a987701b5bab.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/210d4d73f70a2225031a45e0466276b7.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/9502e540d6e1e68e5b68b758a88be245.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/82640747c791d801eb3fbd9e43043924.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/884c0d5e37b2df7f370fc32dd755fd08.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/08471a29f03fb836f05efbdc7a8c3918.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/d8211f0898ffa27dd4fd0f67e9e2133f.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/3e5fdd242277b7f9ac08f362c112b215.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/ea79ebae3aea24f19e7cfd9800c92053.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/a82b1902865ab7dc9e14268c888b2afe.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/3693d9cd834fcec89d999a06b155cc90.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/91dbb0ea273d2bfb8bf1a4e7b1896cf9.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/d254ce6edc2f157f5ddd3bb0f3f7dbb6.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/dbeaafd29d2bb64a3d9198432dfa8d57.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/7e16e01eb1e29f27a36120a04074f0e6.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/f9528115b4d0c264c2785fb85b1f05f7.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/2f759c1c5b0e0bd94eb7699a4291df9b.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/92e86dced23d079106a063d7539d7f9c.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/d8e7698cdacd713f7a53cebbf1ddc1d0.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/52523c52ccc6b8840b1707a12a2712a8.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/c5c10492deb3996fd84f8914ae62fa62.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/3932be7978ed9e3842ef6b6f67bc8055.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/e66156b13c9ad019d4fc360222560be7.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/d7fe0623680c4e9b983f6da78098c98a.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/454c0a616c76a50253f1a1525ebabe6b.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/12806207d98b7e16b10faf70eb010cf2.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/8812939c79405150c4566ff84f0bec4d.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/90928f14f256d09dd8df28eb4f479657.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/1c5ecdc88adf18df7ca42c26d02eb694.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/9bd4859749e9aa0ca0f5909616cc8077.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/a6c9d99e193106d5d27fc345c5f0fb8c.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/324005149176e02ae8696ad759337e00.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/2402c73754791f04606502658aa702f0.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/72107483364152f93fd8c6133e15ee91.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/3b289125a960c662bc2dc149383b6b67.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/9e99cfccde212a9d2ee6fa9d8cd48069.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/33/035eaab18ae5f4a3248ada5c3c2c3174.jpg,hygiene product,21.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/86d7ff7d6fc45a7de13a82f734f2af8f.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/798c9c5c0e5d934b51e15229fd5369ce.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/16460bbc7bc4b067ede68dc77e162792.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/a057848915bbf6d692da2da78840ad58.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/80e37353b4d84668734fa6b29ab3f847.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/bf9aaa54b1bea96644861fa8f7b1e907.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/7ac269052a121308570e1039ec3dc5d7.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/9c4c792b9cf4404773a821fdfb229cf3.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/629adb70ac85cc605a332610c1e5a5dd.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/11be00f40dd1511c946074e336b60e2a.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/72d08a76e5dd3c490bdbe4c68fd12926.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/b0e107d4e7332619f746194cffb94513.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/995ef89daadc5565e7c1526b2464ba79.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/fa362bac60c872812993d95a87e0294b.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/04dea0179c591bea9606c819f034bbe5.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/68feb9c6dca5f640e125adebe49670e0.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/55109e0c726c0b39e53ed0557070f95a.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/8bc4f424f1e18a1034c5d777e396afb3.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/8321763dda8e9247bf746914bed761e8.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/44a6c4bb4987f189f4ee2a63ec4b3c7b.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/a3dbcdf667688d42fdd188fea5f6c889.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/c6d6005c0e047583c15afdd8a3099c3c.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/8e92e5b7b4d06eb8cb60725cc30d2ad1.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/62790c3026312af2e85d6d6533164da0.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/b99298711c8580dea328bb75e180b3f9.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/3bb32b35daa0c211feb9a8ecaddc7993.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/2e7aafa6221ba80c167d8863a2e46186.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/acbc66afec81092812f6ad0f8710b77b.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/b205ddd09bb64975764b6195fcd8eaa9.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/3d210d9e129975f74cceab3640a3d017.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/47f3b393dc6311477c066eb635ed1b74.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/1d0b050c13ae11b9214ebb43de2ff895.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/044ba81a1cdcc223dafd35fb026c891e.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/dcca039b05b31c6fa011a190e409de51.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/cea6a317e63d5b8c49a1852b0f245747.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/fefb9e03c9fda5a97a491115d02a0834.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/0370ce3c7862f24f73409a3637915092.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/18e060e43499e7b3df6b46481a937e72.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/e5da8a6752afc50ca1e02913890dd5b2.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/ce227633da91b947883b062eb81c5d2b.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/edcccd5b6782f0782fd2d13c5ba46f83.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/308e4d389245b3ceb44a8ccbe56021ea.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/a46607241fd65ff074d3f6e0be9e6d52.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/4ada2e837e965b2803163a6d9e0e912f.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/15c35d63fb7750eeca08dd99aa811270.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/613ca129ab3b989e69875fe5cb530a4d.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/9b3f46c1dfd84604cbfefb4a534fa321.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/c266bc17236716fb41498fb9bab057e2.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/60677619c5449ffacb4f1e68c68a34f3.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/41bc7bc1e7621c2ee2bcf8b438300942.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/3e087ea110acfd1cc9daedb176f996a0.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/f6d748c853849777fd723fe662e4428e.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/898a6176885c57e534e88b7a1f339865.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/3b3c284e76ddc83199b9659d63e3d02b.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/5a8c47e38107d4db906f135aff1c6d3b.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/b5b23738b478510c17b043b45e274461.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/45723ef8ed610934b871e4a10e49684c.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/616814f88aa1de2e491d986285ef1232.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/c208c0ca00c99e666613475ac313fa05.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/30462fbdb4ca9469ea8f3dd0ae191ecd.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/8b81442505eb9025bdc3bf8945337a97.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/e1fbc46275b283180104a41e9298a992.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/39121e67d28e479af337d00dcdb18b57.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/98d066f65c32ce02207c5f6a1282ae55.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/87ff6ac8eba913d6664b349a852c6cb2.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/31946276e124c44b1bed6737f35c693f.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/f7164653b5038832f1cefb6ad1ef968f.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/0586bb0115a9bf264b94237a37f9ae2b.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/2e29ebb75f2591b658e377d30a38ce82.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/4e68fd3df7dd475a38318ba96cd4fde9.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/3d274f33067d472debeed5ec755e319a.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/60e0ca2863c4add0d165c08d605a1156.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/0319e05ad6021c9da60017e8909c5656.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/4e51920b38c94619db2242fdc5170fd2.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/e6d5ccbf4f020e4aa754b504135b4709.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/af383bdd63ac8ebb1f12ca95a0d2ef02.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/559a933997b817da33c190efdcf8d273.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/13a4ed5d9f3af888c2fd9e1488a2a9a9.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/2a15fdbd7f2a8adb7a39c44e3f188048.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/3dcabe6bcce239dd6f0ca2f66fe1cd62.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/5fabcbe7d6862d2a7708c2d794780e74.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/c46807896b31cf7f2a15c0efe3dbff3f.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/4c9e0e9336ba62074665f25b86e26165.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/40961f01402c9cd7850aa062301467d2.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/03eaf9563fb440fb7b2d70ef866e0115.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/18062f405810eb6c78db43bdc4ef14e5.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/a05389ca7a5bb5586d4681286340e7f8.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/78a64da62223fa0d0394cc35a90b71ce.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/55f1f78b7ddf8e73e9f7541d68131384.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/c5c9c979cba54299990a608771e42ae7.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/69e572ec374f5b7d9fddf90ce3b54e57.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/c29fda59754730091afe60aa9ee7b497.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/721221360286d11fb43385101ac743f9.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/d0a69571c02ec6cb61a4313dc271260b.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/bfff448e77c20e8575b358e9ead33a29.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/76aec60206297361502e2e35562f8080.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/2b50aa5008e2096f3d5c63eb54a09050.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/d0919f922d76dca63fb29536b54a1f8a.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/2650e64344b975351592c62cd45c6b4e.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/c5b4f838f6df3bf6ce3c64a619a18e51.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/af267c55663ecf74c59c0032230a9b69.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/a60db1c645155805697964393a0dbe87.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/cffe86e45576e87f86a903aae3e53eb2.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/babae7a0df251609e279cc201cc0eec8.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/c2780380a52ee041d8635c574d67e7d6.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/a7843561e33d77c34b14fc98668ae9e2.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/77f0e1ebde675ceb3b834daf108e2186.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/314fd72d691debfcc07f43ce3561ce09.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/3c4c29ad0f8f076397aa3e6d589f47af.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/a57a597b75c5dcfd371da7902214958b.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/cd181f3bf818c7d9a78c2edbb355e914.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/0b30f0f5a46ec7e2ffa01a6a410b9a90.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/de6e753ed318fe1770f8285e1ed5e1dc.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/bdece7f3f20035ced212e8a6a405e686.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/ba3e52b5f2e7fefae526e76ac7781803.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/9d051b3aaa52782cf154a53a9e627476.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/3f5bc9b149b055d922fca3c4f2ce859d.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/9666868b3d218f51adddb9f4fb0897ed.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/4c747c1c29223c5be271ece16017ce11.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/fe8b7dceec222817add943a56048c47e.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/419830c0064613a64149c11b77470e50.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/1cd9dd2cabee97b1131e02ee70b30d4e.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/09e90c7a0cfc2f537f17aa53e11e0b11.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/74b5ff7f37a2a97551240eda6ba72f97.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/bb50e81f12d3fa6759584c25b4af6243.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/974d280e08889aa19f303649f00722ff.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/db9e7d32349573a93b2af2b8a11f983e.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/f5b592a705a404a555ebf60049c193c2.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/36009615b720050b05a07dca60cc8887.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/173108ec25f18aa11901e2900050b578.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/9f9ab65e92d4cabe838cbd3c7b21a04c.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/f3df3313e078132fcac5fa84110f3bb8.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/b24b7d77956471b62a78fc6e41f4b0b6.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/00e475345cfff4df01307fb5be9353a3.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/fdfa475fd54d5160fe381d3b74b03c49.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/3c1decc66a6a8ee3444e7f49d2106413.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/c2a33dda9789b072ec68c2afdb078427.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/bbd97f26046c92d5aa292cf360c845d5.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/a03be03d579feb3723f31d4df1c8d99c.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/cec54c60691a70af031e2b12917958d5.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/fadb6e6b4abeadffdc6205cd4b5bb10e.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/59dbd32d148876414231fdf2f96bce86.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/4b891f43bb088995a079ebb693b4cb17.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/dc84393292d35e9666737ecc2c0f391d.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/0721ad01818f958502f5dbe49f88dafe.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/a7b746fe42d19482fc6be0e05ae7704e.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/e3fd684b5b675e5858a3dc99959a2cf4.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/cde267fafe20bf745074ab95faeb89f9.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/59253504a2261821d1ad5050fe016ac8.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/c7d89b3dbebd20830d7164efc748bd96.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/a1b585b1ab74f1244eb6a3928403bf01.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/100dec0980cd2ed29a29fe5b29d3898a.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/c686cc40e704f336926692b99a70e20e.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/ca66b8027c5e5b1dd5ac5f686d52922a.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/6527ff14e72db6081f8fd1074b923cac.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/2d72d6f4249fbdde0524803c9ef40965.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/bd003afa7251369e7abd1e5de6f5cab2.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/d8005e8bde7418a7f1a2cc21274f5091.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/2539ee0db7e9492db0c7f1c6a750b8be.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/d2fd22e9f6bc68e0d7e936bfd29b8c7e.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/9c7b542118868691f4d04235a06e3e72.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/47f56edb722900cc811cb137b6ac9017.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/27c80e46dd614f94db45f1052ec6d3e5.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/e3b36cb238ec7bb17e095c9dfe1c30ae.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/9331a664662d01a2586346937b622327.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/b1afd9c73e18ff70674375b3a84c6f29.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/f5af967649408eb3372236ca2e4a2e1d.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/66cf55c101a6dc4993e51f3d0b8cf8e9.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/8bd22d38df642248dfd6a40c0bba40e2.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/57c19588d3b81e8313b27708bea6446f.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/dcc0cb22fe37e56909ea291bb8f17af3.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/33/485ba85158a32ef7313739d331ad2293.jpg,hygiene product,21.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/1a19daadae14c9d039ae3bf9e63d08ac.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/f247ba000d794dea9431ebc45f40b44a.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/32e7ea083418502c91a821d076fc9186.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/a0e9d9288af9b089343cb10444e7a469.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/04154fab737138fda0ac3c1094dfab35.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/7cfbd9a78b654a896630981433c2e229.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/ae2a99b700dbe1ce31aec1e348fe5376.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/8632613b1d2827faee74dab8eab4d674.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/619351d5b039c18aa5c8f18db44a8732.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/c41d6987e7f2775259e264e44f8aa086.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/4ba6ab2a2f99f384e6b73da35675db86.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/44022c95f75cf0b2cd93bd093674d314.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/d9234092fff0912ca496669dafaab00b.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/a908e5e66db2c023c7328f31e92b31dd.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/98b8f80b57f82bc1a15372a893b60fc7.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/059528361bef243372553fe82ab02bc9.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/3d324bafbc802f489625bb961c129cd7.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/a8442dc406cfd1f541f048cda5be70a2.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/04d9bf5d803f7dafcb60da968e0b7db2.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/d16691eec368a3bdc4aa70cac6a35a84.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/a5b41aa1d4df99a9a20e3076848f9b27.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/473676e68adccad00a230b5af7e94105.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/b93416d6a3fd8c6796c22175d90ef9fb.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/59c18b244c78181a312ea9230eb353c9.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/2f53a0cb23d2e78834ca9ab9e8f2ec6f.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/10f5dda0ee335de7ec977f60d17b8e45.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/1d211377178ee0be1cb93177fd9404d1.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/f664f992e34e47d5c30f2b1f3149dca0.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/0bb1fad54613d0dd2086f1120e66918e.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/2f447ac6ea858a1e0d02ca8d0a30a7c4.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/0885e4c0349a99b30b1a81609d46feb1.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/4051c8bd4cf13e90b8f7452c1fece808.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/e52e70949731f7fefddb06798ffa635b.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/934ac4aacca1f516d9a7a1698d4aa009.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/34731733044f5fac48d66702298ab31e.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/76894c250528b7af96f316cc04d13054.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/87d3c5a109739dfa7d50929a6985dbec.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/9e3bd3f992b1cb59fde1c4cd602e986f.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/3b82a51460a6ccc30e2255c16599f86c.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/b8f449784f8baac845655818dbc9ef0a.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/aef1fd9cf8cdaa0ebaffd66c02cfabe2.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/774ada17bc0f8960caed7cea675b49ed.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/82e2612b709abe941638e4a93143bf7b.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/01bd7d58f99cfb9f335c3a87a0168249.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/cd04bd087a076b6f6d6660b22f787a2a.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/5bc31f86b0c53dbea0f4e8c731ebb29f.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/96980c7f424bcf9f55fbb4ddd9a5a568.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/28e9acdcf9e34fc7eb080276166b811d.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/9d69967af97176cda1a546f8c03ab1e9.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/e9897977a99835fe65de6e1d462e3a18.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/a54a18932a8656cdf41dfa747712e8db.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/d3ed14cefa720b596139c5c3cc6653a5.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/0dfa55f4934f88ac66fed5dd6af6e7c6.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/3ba46a5bc6e8bdea5cccd59f54d78a3e.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/6fbb5868fb5c1c8af99a9e55b293525d.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/68a0620e4842910e8a885b1bcd177554.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/c34fdccfc2139a589de43de503dca112.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/bf761331802730fe0558196e61186d57.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/b887c039551ff0d66550dd334fd8320f.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/d7dea00ba7ca014d05717d5b90e5ae57.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/2cf10980b24b2b5e086efc90fd8cda50.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/0fc91f8b236873c223c0c3155e7ec1e3.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/2538e83ab514ec0c22149276b993b4c0.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/dca5a29c7b3b80f17581da48f6f54a49.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/81d3b505815ab4c727674a8c9f3ebb8f.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/dd52bdb82f3b6d82bacfb99f22a8b033.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/90f4cd1f945a822267bde858b1206500.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/c1a4647ab92b2417d1359cdace7f5abf.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/ef7939a958664cf5e4a66b0737345657.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/f7d16c4eea6ae9ef8b1b5295f2aab1fc.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/8ce928c7608d874083151e12d0e9723c.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/d4027dffec7fca5bb570b7f156619655.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/f4f1a4edd7a9388d6155a60dc91fb76a.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/1b232ff248b147d0d2b010d75686630d.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/9a508991ee34c09a57232814695404fc.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/2fa553428551582fae971839f73d4461.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/b1c685c1146d7976f496fb78f65b0e75.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/88e831e6bb9b293a1bdff5a11d9ff6a2.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/feb4c440f518db9090451f682d1e4a8d.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/a81231b7f0d1858c78a6f4e04c19a1e0.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/3d968413bc5c1c291f803000c2d23c1f.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/f29a77f341b83f57cf0c0164a7c5292e.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/7d9faf986497a0128067af0580b2b7a1.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/ffabe0a9aa1c4e8d2b06ff9a2ea5854a.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/95b706c71799838396eb296fdd6e2f94.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/f3fe93976ebb2ad285f5995114877421.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/0f131ccbd47c2ab06c596756842a5fb3.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/6fb8a365c321b4eec79f24eed4683abb.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/a79d8641a9be60754f3c6bd80327bc8b.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/ad58ea0bea4b472fef9349e802524396.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/b322f44f1589d5759a19ad1d99aec8de.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/5a449756b6bc6ac9ecc593c2809b28ed.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/c62b1f8d77036fdba53d49f1d18dff8b.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/d5aef5b9467a080773095a32ad8c084f.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/4f0e7d32f832a1b1e4c14a255db85ec2.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/21cb9c6d6b20b064fdbede2f6428e35f.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/39/e4a05dfa79472a9142a129065093fc3a.jpg,home accessory,20.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/6c4d0dac5d5bd73ee486a07fa13401ea.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/629130e3cfb4b4487e80bf249747a923.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/68e94a33781f174ed2fe63a1f6c88ab6.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/f0778796b89b9a29d858a7d32a4175f9.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/e7002e10ab472118e965e738aa9c2c20.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/06/87e2b63678ce8198f574139901a0fd17.jpg,earring,16.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/3d29236fb342225ee3a7374624d5a833.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/3bede4b08d872324ee3311aae047401f.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/f1d3a26ea5c0db3fc2639aed0ba7f843.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/a8977bc3acec8787e030e0813741530b.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/842dbd6db0c999a9fddf548b880bf166.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/361b11bf8343bbd36ead2d5352ff0167.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/27ce0d7eef99ac8b705f79b2f53d44ae.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/2594299949c0f6ce4d9980e7782c145f.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/6c4dedc1a0c86c737281c02d422acda5.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/64d7e7ab96ec2a7f970f0e9c6b5cca34.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/6a0719540dcc82f98d4cff12494b8d17.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/47e2176498513ae79bb3b86c1af90bb5.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/a5b8ae0a7019243fd2a3dd5132169481.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/9a352ecedd7635f273cae728f77ec5f0.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/1deba1e40a927a031a718865818fa765.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/073de758781f2ff6f4d3c441f2a825d1.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/a4a3272fe88648ea3bb98c6a595aa3d3.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/10/956719d770fea0b06dd8c772cdb77d3e.jpg,electronic product,17.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/32e60381a80c8ae7d44f976aedc3598d.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/6cf6d9c3a312cb2a5e9d1bb89ca17f13.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/e76aad60fa34a4b5a53033af68c112a8.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/e164a0a6161419f84b1d5792f5b157ca.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/2015c491e4020d6dd0614ce900bf8fbd.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/18/6604092f09f9b1dac9757280c30b2eda.jpg,office product,28.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/25b3a5ca773a350cd54ce31b0041fe04.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/37/82233a069fe0cbc50fe618002f270567.jpg,computer and computer accessory,12.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/14e9ae191fa322e417fe16a2f9bfbf6b.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/324ea5c8d8cd8f77b5e3f17db19faf7f.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/38/b10104bb16a3e379cb53bd988e12ebeb.jpg,bowl,6.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/da5b1fdb3c5b0891e3a113106524f4c3.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/e3980b0fb60c9de7e9a70ae1e64e8075.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/9f5a20e2f00d37de8560ca465e2647e9.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/f43e531114bb33483ba83ec36e9687a7.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/4aa9480041236121cd60d741cc487e6e.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/0a4ed7a534b437515b63c05f8fdb7e29.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/79791ba7220fade3b3eaddc17a91b9c5.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/27a4e8e81e5c6dfb601f4e03769f47c9.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/41/25e889a20a8ae0abdee23362f645b7b4.jpg,couch,13.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/02/5409ac62f2bfa9f6f63a77cc0970b667.jpg,t-shirt,36.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/3eedcb45dc3b9d20a889a1bcc2e8b219.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/7fc41c536cd6610caaa287b39f78effd.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/2d670cfdf888b923b2722eefce13dfc0.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/2f45fbcd9a92a59b84d7a667270c4308.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/80d1aa0df06bfcb8d889cf4d7b9866a0.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/d10dbeb4f4d5443bbb74882ce2c7c83f.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/fc1dd950c7d36c71dd899def3992c1af.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/ee00f844afea2dfebd9444e85db45e01.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/1c16fb724f167d700c9832c496aff1b9.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/ae593c4a9ae0db1c5e1df937328d3e15.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/24/52fda17acbc62b5eb800a93947363184.jpg,watch,41.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/01/e32ac403b90db81a4bb3fa07176da5ae.jpg,dress,15.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/73e6fc96b81f2b279aae12d4e188cc2f.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/07261bb902a0fd0f74f594a0657b2717.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/67eb84d395075f3bfc3ef830def02267.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/f713a0e497bab40e2bfe322396ea42a3.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/7f9c2d9d4377f8557a6a0d2263598023.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/3bf3a4b2b88d46532a636cee3b02f069.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/70e0385e97b201528ca9761987e47fca.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/11/1e070b593011615307de2887385fe308.jpg,iphone,22.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/34/1ff1cd3c39d963655facdb99bbf23336.jpg,creme,14.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/182b3b21e12d7a3835899c087008232c.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/b638212b244cbf286f025a3967076d4d.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/82a967f27bd48093760ab9f263f2fad5.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/e1572b5d58ae4652b59f0990984790e5.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/419cd71bb175dda4776668be79f7d9f4.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/5cb2619c0ba86cf9cba5bfff7c925d43.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/a856b00617417ddbb237bea64c831828.jpg,wallet,40.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/5aebcc4bcf621ab4994324bbad3c6fbe.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/9e5ebb4a31b301010ec50282e8bb103e.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/86975e1026cfed0466b9ed3119cc9a2e.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/2d179714ab092af7ba0a62118067e314.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/04/591847eb8131812a93960f2fb57e0362.jpg,jeans,24.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/3cc7511313b305a77a8697e16df3447b.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/e83dd91afdca52ad2beac0519c523b08.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/4451dc646ff33c1c1567189bc8118cda.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/14/34f9774507b15693c0d09385f2917fd8.jpg,kitchen product,26.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/30e77ceec57e63b9859e747fcc5caed6.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/20/3a41f39fd1ccaf39096925253840f589.jpg,chair,7.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/9bc2b1d71b97ba1fa6f9ea9ff70d36c7.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/36/367b76b221a9ad2376a3280179a8632c.jpg,cleaning product,8.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/27/9e65fa4dc17248dec274ede73288f248.jpg,toy,37.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/30/a9d61833ed387be7547ea8f4daa11136.jpg,sneakers,33.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/23/41f4d618e38c11e762e9594790cc8785.jpg,gloves,18.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/4905a2d6f1d2f067e55c4dd120fa049b.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/35/4d2081a7db5ed258e61545672a9c2ba6.jpg,parfum,29.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/77d439ea9d6e2d2abc8fc9439baab621.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/17/b55fec7f1159329c0dbb47526724207b.jpg,shoe,31.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/ef6ef94bba003db28d730c97bdea5b22.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/8932afbcc8d42e54bc92e80bdc4049f8.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/12/b35af22339ebe3de1a80ea04e31f0da8.jpg,clock,9.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/21/ee9577105e056739651e2cc4b7743bc4.jpg,sport product,34.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/229c2e54355ee4234c8539feba015be1.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/05/2345752b2bcbb0ccac404d7e9a52e102.jpg,jewelery,25.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/29/0b77d7610f5ad8de6109436de32a871e.jpg,trousers,38.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/32/7d630e68a7ee643111523297b9a9c9fb.jpg,medical product,27.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/07/8318fa4c66d44219e9761ae209d44d43.jpg,hat,19.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/13/a76c168a99acb6b748efe34372cee308.jpg,baby,1.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/15/7ffe79891a6eb248988a6ebc6df261ec.jpg,coffee,11.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/40/4baae599f55d9dc59b783bd9467e0da8.jpg,bathroom product,3.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/03/646a935f7781ed3c251e44376e70c7bb.jpg,sweatshirt,35.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/22/35be49b4f84a94e9edb51c14e39cfba0.jpg,bike product,5.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/00/363e88ed1457a91ff3715567807a9b41.jpg,clothing,10.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/09/0b23468b27bf721d15cd177a3ae0b7d5.jpg,bag,2.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/26/1dc74b7f8847ade0b610255674db2f59.jpg,audio product,0.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/16/05b0982e1e3001a6274871256df24a7f.jpg,pumps,30.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/31/2211c92dfcba818c5a05b0efb8b10fd8.jpg,snack,32.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/25/b10c69a84a55da81d8a1617bcc2e3078.jpg,belt,4.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/28/42bc0127c3480c4e7ba9c2b7b5c72b72.jpg,jacket,23.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/19/4c7b59c9e3b2457dace9d17cabb899fe.jpg,usb accessory,39.0
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/E-Commerce/Train/08/9cbb4f7bb13c41f76a429ca1141d7db3.jpg,wallet,40.0

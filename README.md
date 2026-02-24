@@ -2,9 +2,11 @@
 
 This is the public repository for the IJRM article Language of images: Classifying marketing images with transformers and vision language models (https://doi.org/10.1016/j.ijresmar.2026.01.001).
 
-Here you can find our easy to implement script to apply state-of-the-art image classification for your own dataset as well as all code for replication.
+Here you can find our easy-to-implement scripts to apply state-of-the-art image classification to your own dataset, along with all code for replication. We currently provide one script per method paradigm as a Python notebook (e.g., Run_VLM.ipynb). Using Python notebooks, we hope that implementation is both easy-to-follow for users and more easily accessible for modifications. If you are interested in a plug-and-play Python script that handles all decisions for you, contact us at: maximilian.witte@uni-hamburg.de.
 
-All our scripts are using the Python programming language. If you do not have any version of Python installed on your system, please follow the upcoming steps. If you run into any errors using the code later, please check whether you have matching versions of all python packages installed (see section 1.2).
+All our scripts use the Python programming language. If you do not have Python installed on your system, please follow the upcoming steps. If you encounter any errors using the code later, please verify that you have matching versions of all Python packages installed (see section 1.2).
+
+As an alternative to running the code on your own hardware, we recommend using Google Colab, which provides a free coding environment with GPU access directly in your web browser.
 
 ### 1 Requirements
 
@@ -68,7 +70,7 @@ Example_Dataset/
 	Application_Images/
 		img_001.jpg
 		img_002.jpg
-	labels.csv
+	dataset.csv
 ```
 
 Example labels.csv:
@@ -79,26 +81,25 @@ Application_Images/img_001.jpg,joy
 Application_Images/img_002.jpg,trust
 ```
 
-To get a better understanding see the "Example_Dataset" here in this Github repository.
-
-This toy example for emotion classification showcases how files should be structured. You can train the model on any classes/categories of your choosing, just make sure to provide enough training images per class (at least 4, more better) and roughly balanced images per class (e.g., 120 images of class A, 90 images of class B etc.).
+**To get a better understanding see the "Example_Dataset" here in this Github repository.** You can train the model on any classes/categories of your choosing, just make sure to provide enough training images per class (at least 4, more better) and roughly balanced images per class (e.g., 120 images of class A, 90 images of class B etc.).
 
 
 #### 2.2 Running the classification
 
-Run the script and pass your dataset file. The `--dataset` argument accepts a .csv or .xlsx file. Use `--output_path` to choose where the trained model and predictions should be saved.
+Select the most appropriate method paradigm guided by the decision tree (see Figure 7 in the paper) and run its corresponding notebook (e.g., Run_VLM.ipynb). 
 
-```
-python plug_play_image_classification.py --dataset Example_Dataset/emotion_data.csv --output_path model_output/test_run1
-```
+We designed the notebooks to be as simple as possible—you typically only need to run them cell by cell. The only cells requiring modification are the settings cells (clearly marked with a 'settings' comment at the top).
 
-What you will get in the output path:
 
-- A trained model file
-- A predictions file with labels per image
-- A short metrics summary (e.g., accuracy, F1)
+--- 
 
-**TBD: We will upload the scripts soon, after we have completed all testing.**
+**Next steps**:
+- Add local VLM to ensemble
 
-Thank you for your patience.
+
+--- 
+
+We hope these scripts are helpful for your marketing image classification projects. If you encounter any issues, feel free to open an issue here on GitHub or reach out via email at: maximilian.witte@uni-hamburg.de
+
+Greetings,
 Max, Mark, Jochen, and Keno

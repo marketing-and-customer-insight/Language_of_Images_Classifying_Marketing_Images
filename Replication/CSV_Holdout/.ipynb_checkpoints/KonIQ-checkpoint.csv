@@ -1,0 +1,360 @@
+image_path,label,label_num,prediction_phi4_zeroshot
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9064490305.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9445074981.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3169607082.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5964504987.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10535849673.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9494953335.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9328964042.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6937606166.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8421980802.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/418145002.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8096129179.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7526135750.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4910377121.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4155484757.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6865774865.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6287889158.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2194214783.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6088173087.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8599488070.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11518631385.jpg,"(1.7, 2.4]",1.0,"(1.7, 2.4]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5191833722.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5678053727.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4806036650.jpg,"(1.1, 1.7]",0.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6970549872.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4591422965.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8231492407.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6642761299.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5320165275.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4840518597.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8832426254.jpg,"(3.0, 3.7]",3.0,"(3.0, 3.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/560054684.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6238203210.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8781313469.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8438205347.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4976232823.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7122976485.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6285698915.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/94886803.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8751458979.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8866395362.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8183781293.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4139991387.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7756578200.jpg,"(1.1, 1.7]",0.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6434043361.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3225818665.jpg,"(1.1, 1.7]",0.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/333145920.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5656494008.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5884906716.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7179446780.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8902141836.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3007216990.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4438338527.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8404206319.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5588363134.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8201445603.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/502416007.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4247073360.jpg,"(1.1, 1.7]",0.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6840130023.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/368909912.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8304558173.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4995010778.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6474704871.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2730274502.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5724255636.jpg,"(2.4, 3.0]",2.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8207527983.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4607436163.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4372249937.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3927444590.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2239201463.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5258392332.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6699302891.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9166594378.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8597381500.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6710865793.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3130211082.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6245749984.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5480693901.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5646137718.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5306390584.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9878706283.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/517369320.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6385461657.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/1067765170.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3100436628.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4310499723.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5498162547.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4838893362.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5707149624.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5078692396.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6793575356.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4094774604.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6475916177.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3648316650.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6769877279.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11433593823.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/1809848435.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9541231306.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7465586874.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2856053454.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3702671816.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8458232440.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3366831652.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11456199025.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3616806128.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3599779537.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9455732786.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4930262989.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5550230387.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4141916319.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2944165349.jpg,"(2.4, 3.0]",2.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5043851130.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9547511197.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7492033480.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5561541116.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/517716589.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/346617779.jpg,"(1.7, 2.4]",1.0,"(1.7, 2.4]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2500618710.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3421464878.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7908624656.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7875370780.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/485174290.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3980253534.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8107402006.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6522952765.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6746835381.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5384624254.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11408307524.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5916873718.jpg,"(2.4, 3.0]",2.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5251948512.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5915008700.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10330831494.jpg,"(2.4, 3.0]",2.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5930876150.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11523093675.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8588348191.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4555534725.jpg,"(1.1, 1.7]",0.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5347056182.jpg,"(1.1, 1.7]",0.0,"(1.7, 2.4]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8078070846.jpg,"(1.1, 1.7]",0.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7537722246.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10683218616.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5144938786.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8566161884.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6621968211.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6599488221.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2905606337.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5492904052.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7693237184.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4206004485.jpg,"(1.1, 1.7]",0.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3497202348.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5173344304.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3194726912.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6177166693.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5314968272.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5673447503.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7189498789.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6710396995.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10628337356.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2795083224.jpg,"(3.0, 3.7]",3.0,"(1.7, 2.4]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8537113381.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8405979865.jpg,"(2.4, 3.0]",2.0,"(1.7, 2.4]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5996831643.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4711939216.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8267786798.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8301114122.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7678821440.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8911411937.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6308697965.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2808286292.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11208321473.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8523976721.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7506629916.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7442226424.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9093638609.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4250403356.jpg,"(1.7, 2.4]",1.0,"(1.7, 2.4]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5458340790.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/1543929747.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9767373513.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2189906236.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9692018769.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6628327223.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9741202505.jpg,"(1.1, 1.7]",0.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8296218747.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6935047173.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5864866052.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6411216741.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8638666116.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5611315745.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2477552466.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10897840884.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7463764592.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6978651748.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/374612387.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/1430765461.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6932651943.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7219282312.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5367389511.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10917741563.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5170784567.jpg,"(2.4, 3.0]",2.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4909946838.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7535091270.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5827032065.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9287500291.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/31286602.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/220183616.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4433497740.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6228740926.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3761173384.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8178731250.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11436390143.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5091406011.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11126091314.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/132921013.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10617981003.jpg,"(2.4, 3.0]",2.0,"(3.0, 3.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4685744038.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6935652834.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4992884384.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4682743182.jpg,"(1.7, 2.4]",1.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/426081951.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6785846367.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8590640853.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6296603222.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5877272501.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7996052982.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/767916820.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6854228547.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3338894282.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3663320781.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11461273913.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5846011911.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3301567767.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6105670251.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8210031777.jpg,"(3.0, 3.7]",3.0,"(1.1, 1.7]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8525376754.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7753523026.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2409675838.jpg,"(1.7, 2.4]",1.0,"(1.7, 2.4]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5448376373.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5815446993.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4016639569.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9919248523.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8667622533.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8142530403.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5344616817.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7188136873.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5073566975.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8410633059.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5906203942.jpg,"(2.4, 3.0]",2.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3918838221.jpg,"(1.7, 2.4]",1.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7908884988.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5469380265.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9843144115.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6439148467.jpg,"(3.0, 3.7]",3.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8551222492.jpg,"(3.7, 4.3]",4.0,"(3.7, 4.3]"
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7530928692.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/169779095.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5968558261.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8431773301.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5635139040.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/395147567.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5971597371.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9369620513.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9505522131.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5060000840.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5965133754.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8126953338.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8644207930.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8442013836.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/326299244.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4046637583.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4787556835.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4137012282.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10539142034.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7726222874.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3308341801.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8244040268.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5449529114.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8732953050.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8522041587.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2633540206.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4882358476.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6927641976.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/11446005074.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9326601195.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9625138420.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2852195444.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3965556653.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/331406867.jpg,"(1.1, 1.7]",0.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7748906306.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/1748861184.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10931213005.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5824082232.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8252742940.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4975468754.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8020768393.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3913188131.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6905163828.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4728497082.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8988892733.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6025425827.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2920995979.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3166870228.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4891817119.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5564762599.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8587794241.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6154181656.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2125535764.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3369391628.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/1654836945.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3853359984.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7751390858.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8717637188.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/562942809.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/491839128.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6669002441.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2608308562.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5447567442.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3948522988.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6112454258.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5527632049.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2693433475.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6800438108.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7899104502.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8636633195.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2319588792.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10329149264.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7655498028.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6922435153.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5982393408.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7999186610.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10980930876.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3091624267.jpg,"(1.1, 1.7]",0.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/701112732.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8986464809.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7979358830.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/10660620125.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7241141390.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/1296775174.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5505953336.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8398445064.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/2403326474.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/125829275.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/5444850191.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6193425785.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8302682948.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/3423724895.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6441383857.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6686438027.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8046864953.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8353492181.jpg,"(1.7, 2.4]",1.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4576844747.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8263016549.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6202357240.jpg,"(2.4, 3.0]",2.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9702746204.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/6208522710.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4605015781.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8185807831.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4278539127.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/7671701194.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/4837286609.jpg,"(3.7, 4.3]",4.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/8338842182.jpg,"(3.0, 3.7]",3.0,
+/media/my_drives/DATA4/data/image_benchmark_phi/media/my_drives/DATA1/data/image_benchmark/drive_content/data/KonIQ/9141403760.jpg,"(3.0, 3.7]",3.0,
